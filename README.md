@@ -1,5 +1,7 @@
 # Spring Security Workshop
 
+A simple authentication and authorization using **Spring Security**, **JWT** and **PostgreSQL**.
+
 **Spring Security** is a powerful and highly customizable authentication and access-control framework. It is the de-facto standard for securing Spring-based applications.
 
 Spring Security is a framework that focuses on providing both authentication and authorization to Java applications. Like all Spring projects, the real power of Spring Security is found in how easily it can be extended to meet custom requirements
