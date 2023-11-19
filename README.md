@@ -8,7 +8,7 @@ Spring Security is a framework that focuses on providing both authentication and
 
 <img src="https://www.javainuse.com/static/series-2-2-min.jpg" alt="Spring Security Architecture" title="Optional title">
 
-**What is *Filters* in Spring Security ?**
+**What are *Filters* in Spring Security ?**
 
 In Spring Security, filters play a crucial role in handling various aspects of security within a Spring-based application. Filters are components that process requests and responses at different stages of the request processing lifecycle. They are responsible for performing tasks such as authentication, authorization, session management, and other security-related operations.
 
@@ -24,9 +24,9 @@ In Spring Security, an AuthenticationProvider is an interface that defines the c
 
 **Examples of Authentication Providers:**
 
-**1-DaoAuthenticationProvider.**
-**2-LdapAuthenticationProvider.**
-**3-JwtAuthenticationProvider.**
+**1-DaoAuthenticationProvider.** <br />
+**2-LdapAuthenticationProvider.** <br />
+**3-JwtAuthenticationProvider.** <br />
 **4-And More.**
 
 **What is UserDetailsService ?**
