@@ -6,4 +6,4 @@ Spring Security is a framework that focuses on providing both authentication and
 
 **Spring Security Architecture**
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://www.javainuse.com/static/series-2-2-min.jpg)https://www.javainuse.com/static/series-2-2-min.jpg?raw=true)
+<img src="https://www.javainuse.com/static/series-2-2-min.jpg" alt="Alt text" title="Optional title">
